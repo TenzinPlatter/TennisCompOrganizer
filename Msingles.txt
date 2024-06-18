@@ -1,0 +1,15 @@
+fsdafasdfdsa
+dsfasd
+^^ all this will be ignored as we are not in a header section
+
+Teams:
+Tenzin Platter
+Tenzin dsafsd
+
+Day 1:
+timeslots: 6
+courts: 4 
+
+Day 2:
+timeslots: 2
+courts: 2

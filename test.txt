@@ -1,0 +1,7 @@
+hello
+ds
+		asdf
+raise Excsdfasdf(*dsfdaf)
+asdfa
+if hello:
+	raise efds(fasdf)
